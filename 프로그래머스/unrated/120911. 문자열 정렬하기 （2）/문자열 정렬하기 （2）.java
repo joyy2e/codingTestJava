@@ -10,8 +10,7 @@ class Solution {
         
         for(String str : strArr){
             answer += str;
-        }
-        
+        }        
         
         return answer;
     }
